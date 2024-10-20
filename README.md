@@ -1,6 +1,4 @@
-# Pandas
-
-# **Pandas教學**
+# **Pandas篳記**
 
 ## **目錄**
 
